@@ -31,6 +31,7 @@ Unityで開発した2Dアクションゲームです。
 1. リポジトリをクローン
 2. Unityで開く
 3. AssetsのSampleSenceをHierarchyにドラッグアンドドロップ
+4. Playをクリックしてスタート
 
 ## 今後の改善
 - ステージな拡張
